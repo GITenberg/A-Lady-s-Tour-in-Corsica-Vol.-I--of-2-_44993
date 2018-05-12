@@ -1,0 +1,24 @@
+_repo: A-Lady-s-Tour-in-Corsica-Vol.-I--of-2-_44993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44993-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Forde, Gertrude
+    gutenberg_agent_id: '43026'
+    url: http://www.gutenberg.org/2009/agents/43026
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Corsica (France) -- Description and travel'
+title: A Lady's Tour in Corsica, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/44993
